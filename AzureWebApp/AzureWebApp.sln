@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureWebApp", "AzureWebApp.ccproj", "{B87C5213-A8B5-4146-8D24-DAE6DC65B0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebrole", "MvcWebrole\MvcWebrole.csproj", "{311791C6-1A01-4A22-A3E1-14CA02AE149B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebrole.Tests", "..\MvcWebrole.Tests\MvcWebrole.Tests.csproj", "{99E774E3-4070-4661-B713-32F6101ED38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87C5213-A8B5-4146-8D24-DAE6DC65B0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87C5213-A8B5-4146-8D24-DAE6DC65B0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87C5213-A8B5-4146-8D24-DAE6DC65B0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87C5213-A8B5-4146-8D24-DAE6DC65B0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311791C6-1A01-4A22-A3E1-14CA02AE149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311791C6-1A01-4A22-A3E1-14CA02AE149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311791C6-1A01-4A22-A3E1-14CA02AE149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311791C6-1A01-4A22-A3E1-14CA02AE149B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E774E3-4070-4661-B713-32F6101ED38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E774E3-4070-4661-B713-32F6101ED38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E774E3-4070-4661-B713-32F6101ED38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E774E3-4070-4661-B713-32F6101ED38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
